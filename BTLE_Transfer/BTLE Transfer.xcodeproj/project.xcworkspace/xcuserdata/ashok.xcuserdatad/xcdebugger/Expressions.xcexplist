@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BTLECentralViewController centralManager:didDiscoverPeripheral:advertisementData:RSSI:]:BTLECentralViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BTLECentralViewController centralManager:didConnectPeripheral:]:BTLECentralViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BTLECentralViewController peripheral:didUpdateValueForCharacteristic:error:]:BTLECentralViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
